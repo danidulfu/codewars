@@ -1,4 +1,4 @@
 function orderWord(s){
-    if ((s===null)||(s=='')) return "Invalid String!"
-    else return s.split('').sort().join('')
+    if (s) return s.split('').sort().join("")
+    else return "Invalid String!"
   }
