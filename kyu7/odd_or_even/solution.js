@@ -1,5 +1,3 @@
-function oddOrEven(array) { 
-    if (array.length==0) return "even"
-    else
-      return array.reduce((acc,num)=>acc+num)%2 != 0 ? "odd" : "even"
-  }
+function oddOrEven(array) {
+    return array.reduce((acc,num)=>acc+num,0)%2==0 ? "even" : "odd"
+ }
