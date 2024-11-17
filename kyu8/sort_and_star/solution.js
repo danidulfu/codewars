@@ -1,3 +1,3 @@
 function twoSort(s) {
-    return s.sort().shift().split('').join('***')
+    return s.sort()[0].split('').join('***')
   }
