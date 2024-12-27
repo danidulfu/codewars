@@ -1,6 +1,6 @@
 function pipeFix(numbers){
     let result=[]
-    for (let i=Math.min(...numbers);i<=Math.max(...numbers);i++)
+    for (let i=numbers[0];i<=numbers[numbers.length-1];i++)
       {result.push(i)}
      return result
    }
