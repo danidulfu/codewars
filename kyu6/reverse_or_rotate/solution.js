@@ -17,5 +17,4 @@ function revrot(str, sz) {
           chunks[i]=temp.join('')
       }
       return chunks.join('')
-    
     }
