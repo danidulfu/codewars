@@ -1,3 +1,5 @@
+Two Fighters One Winner
+
 Create a function that returns the name of the winner in a fight between two fighters.
 
 Each fighter takes turns attacking the other and whoever kills the other first is victorious. Death is defined as having health <= 0.

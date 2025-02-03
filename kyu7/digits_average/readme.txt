@@ -1,3 +1,5 @@
+Digits Average
+
 Given a non-negative integer, take the (mean) average of each pair of consecutive digits. Repeat this process until you have a single integer, then return that integer. e.g.
 
 Note: if the average of two digits is not an integer, round the result up (e.g. the average of 8 and 9 will be 9)

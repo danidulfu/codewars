@@ -1,3 +1,5 @@
+Pizza Payment
+
 Kate and Michael want to buy a pizza and share it. Depending on the price of the pizza, they are going to divide the costs:
 
 If the pizza is less than €5,- Michael invites Kate, so Michael pays the full price.

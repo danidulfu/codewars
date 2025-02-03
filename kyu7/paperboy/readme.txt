@@ -1,3 +1,5 @@
+Paperboy
+
 You and your best friend Stripes have just landed your first high school jobs! You'll be delivering newspapers to your neighbourhood on weekends. For your services you'll be charging a set price depending on the quantity of the newspaper bundles.
 
 The cost of deliveries is:

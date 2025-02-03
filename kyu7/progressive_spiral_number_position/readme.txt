@@ -1,3 +1,5 @@
+Progressive Spiral Number Position
+
 Assume that you started to store items in progressively expanding square location, like this for the first 9 numbers:
 
 05 04 03

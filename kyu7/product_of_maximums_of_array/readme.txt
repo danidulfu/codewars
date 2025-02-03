@@ -1,3 +1,5 @@
+Product of Maximum Of Array
+
 Given an array/list [] of integers , Find the product of the k maximal numbers.
 
 Notes

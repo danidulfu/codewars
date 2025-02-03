@@ -1,3 +1,5 @@
+Pop Shift
+
 You will be given a string.
 
 You need to return an array of three strings by gradually pulling apart the string.

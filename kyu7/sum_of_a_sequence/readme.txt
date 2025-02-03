@@ -1,3 +1,5 @@
+Sum of a sequence
+
 Your task is to write a function which returns the sum of a sequence of integers.
 
 The sequence is defined by 3 non-negative values: begin, end, step.

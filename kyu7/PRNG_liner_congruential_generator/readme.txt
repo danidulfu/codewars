@@ -1,3 +1,5 @@
+The Linear Congruential Generator
+
 The Linear Congruential Generator (LCG) is one of the oldest pseudo random number generator functions.
 
 The algorithm is as follows:
